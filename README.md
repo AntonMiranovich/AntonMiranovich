@@ -25,7 +25,7 @@ Please feel free to reach out with any questions or inquiries. You can contact m
 
 ### My Stats :
 
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonMiranovich)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonMiranovich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonMiranovich)]<img align="center" src="https://github.com/anuraghazra/github-readme-stats">|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonMiranovich&layout=compact)]<img align="center" src="https://github.com/anuraghazra/github-readme-stats">|
 
 
 <!--
