@@ -21,8 +21,7 @@ Please feel free to reach out with any questions or inquiries. You can contact m
 
 ### My Stats :
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonMiranovich"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonMiranovich&layout=compact">|
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonMiranovich&layout=compact">
 
 
 <!--
